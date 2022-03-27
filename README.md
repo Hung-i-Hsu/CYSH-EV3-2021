@@ -7,7 +7,7 @@
 
 我們將每一次上課實際撰寫之程式碼上傳 GitHub ，記錄每一次課程進度 。
 
-維護者 ： Cheng-Mo, Hsu ( Hungi Hsu )
+維護者 ： Cheng-Mo, Hsu ( Hung-i, Hsu )
 
 ### 二 、 運行環境
 
